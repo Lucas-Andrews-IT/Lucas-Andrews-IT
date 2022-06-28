@@ -10,7 +10,7 @@
 
 💪🏽 My areas of expertise are: Hardware Installation, Operating System/Software Installation and Configuration, Programming, Scripting, Database Design/Management, Server Installation and Configuration, Medium-level Software Development in Python, Subnetting, Technical Documentation, Technical Support, Technical Troubleshooting, Diagramming, Version Control, Proficient in Windows 7/8.1/10/11 and Linux Debian/Manjaro.
 
-🏔 In my free time, I like to try new experiences so you will either find me learning new foods/cultures, video games, and traveling to new places.
+🏔 In my free time, I like to try new experiences so you will either find me trying new foods/cultures, video games, and traveling to new places.
 
 <!---
 Lucas-Andrews-IT/Lucas-Andrews-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
